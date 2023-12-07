@@ -1,0 +1,76 @@
+---
+- case_id: 1
+  case_title: [ "创建项目ERC4907","检查项目ERC4907","构建项目ERC4907","部署项目ERC4907","删除项目ERC4907" ]
+  case_data: "Contract_EVM_ERC4907_z"
+  text: { "tx1": 'Successful',"tx2": 'Deploy',"tx3": 'Download ABI',"tx4": 'Send', "tx5": 'Call' }
+
+- case_id: 2
+  case_title: [ "创建项目NFT","检查项目NFT","构建项目NFT","部署项目NFT","删除项目NFT" ]
+  case_data: "Contract_EVM_NFT_z"
+  text: { "tx1": 'Successful',"tx2": 'Deploy',"tx3": 'Download ABI',"tx4": 'Send', "tx5": 'Call' }
+
+- case_id: 3
+  case_title: [ "创建项目Edition","检查项目Edition","构建项目Edition","部署项目Edition","删除项目Edition" ]
+  case_data: "Contract_EVM_Edition_z"
+  text: { "tx1": 'Successful',"tx2": 'Deploy',"tx3": 'Download ABI',"tx4": 'Send', "tx5": 'Call' }
+
+- case_id: 4
+  case_title: [ "创建项目ERC721","检查项目ERC721","构建项目ERC721","部署项目ERC721","删除项目ERC721" ]
+  case_data: "Contract_EVM_ERC721_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI',"tx4": 'Send', "tx5": 'Call' }
+
+- case_id: 5
+  case_title: [ "创建项目Uniswapper","检查项目Uniswapper","构建项目Uniswapper","部署项目Uniswapper","删除项目Uniswapper" ]
+  case_data: "Contract_EVM_Uniswapper_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI',"tx4": 'Send', "tx5": 'Call' }
+
+- case_id: 6
+  case_title: [ "创建项目token","检查项目token","构建项目token","部署项目token","删除项目token" ]
+  case_data: "Contract_EVM_token_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+
+- case_id: 7
+  case_title: [ "创建项目FunctionsConsumer","检查项目FunctionsConsumer","构建项目FunctionsConsumer","部署项目FunctionsConsumer","删除项目FunctionsConsumer" ]
+  case_data: "Contract_EVM_FunctionsConsumer_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+
+- case_id: 8
+  case_title: [ "创建项目Withdraw","检查项目Withdraw","构建项目Withdraw","部署项目Withdraw","删除项目Withdraw" ]
+  case_data: "Contract_EVM_Withdraw_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+
+- case_id: 9
+  case_title: [ "创建项目Swap","检查项目Swap","构建项目Swap","部署项目Swap","删除项目Swap" ]
+  case_data: "Contract_EVM_Swap_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+
+- case_id: 10
+  case_title: [ "创建项目MultiOutput","检查项目MultiOutput","构建项目MultiOutput","部署项目MultiOutput","删除项目MultiOutput" ]
+  case_data: "Contract_EVM_MultiOutput_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+
+- case_id: 11
+  case_title: [ "创建项目Message","检查项目Message","构建项目Message","部署项目Message","删除项目Message" ]
+  case_data: "Contract_EVM_Message_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+
+- case_id: 12
+  case_title: [ "创建项目MultiValueTransfer","检查项目MultiValueTransfer","构建项目MultiValueTransfer","部署项目MultiValueTransfer","删除项目MultiValueTransfer" ]
+  case_data: "Contract_EVM_MultiValueTransfer_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+
+- case_id: 13
+  case_title: [ "创建项目Counter","检查项目Counter","构建项目Counter","部署项目Counter","删除项目Counter" ]
+  case_data: "Contract_EVM_Counter_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+
+- case_id: 14
+  case_title: [ "创建项目NFT_Zeta","检查项目NFT_Zeta","构建项目NFT_Zeta","部署项目NFT_Zeta","删除项目NFT_Zeta" ]
+  case_data: "Contract_EVM_NFT_Zeta_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+
+- case_id: 15
+  case_title: [ "创建项目GreenfieldMarketplace","检查项目GreenfieldMarketplace","构建项目GreenfieldMarketplace","部署项目GreenfieldMarketplacea","删除项目GreenfieldMarketplace" ]
+  case_data: "Contract_EVM_GreenfieldMarketplace_z"
+  text: { "tx1": 'Successful' ,"tx2": 'Deploy',"tx3": 'Download ABI' ,"tx4": 'Send', "tx5": 'Call'}
+...

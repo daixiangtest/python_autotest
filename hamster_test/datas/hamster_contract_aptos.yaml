@@ -1,0 +1,62 @@
+---
+- case_id: 1
+  case_title: [ "创建项目aptos_staking","检查项目aptos_staking","构建项目aptos_staking","部署项目aptos_staking","删除项目aptos_staking" ]
+  case_data: "Contract_aptos_staking_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "Call" }
+
+- case_id: 2
+  case_title: [ "创建项目aptos_vesting","检查项目aptos_westing","构建项目aptos_westing","部署项目aptos_westing","删除项目aptos_westing" ]
+  case_data: "Contract_aptos_westing_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "Call" }
+
+- case_id: 3
+  case_title: ["创建项目aptos_lending","检查项目aptos_lending","构建项目aptos_lending","部署项目aptos_lending","删除项目aptos_lending" ]
+  case_data: "Contract_aptos_lending_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "Call" }
+
+- case_id: 4
+  case_title: ["创建项目aptos_ToDoList","检查项目aptos_ToDoList","构建项目aptos_ToDoList","部署项目aptos_ToDoList","删除项目aptos_ToDoList" ]
+  case_data: "Contract_aptos_ToDoList_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "Call" }
+
+- case_id: 5
+  case_title: ["创建项目aptos_marketplace_contract","检查项目aptos_marketplace_contract","构建项目aptos_marketplace_contract","部署项目aptos_marketplace_contract","删除项目aptos_marketplace_contract" ]
+  case_data: "Contract_aptos_marketplace_contract_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "Call" }
+
+- case_id: 6
+  case_title: ["创建项目aptos_NFT_marketplace","检查项目aptos_NFT_marketplace","构建项目aptos_NFT_marketplace","部署项目aptos_NFT_marketplace","删除项目aptos_NFT_marketplace" ]
+  case_data: "Contract_aptos_NFT_marketplace_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "verify" }
+
+- case_id: 7
+  case_title: ["创建项目aptos_raffle","检查项目aptos_raffle","构建项目aptos_raffle","部署项目aptos_raffle","删除项目aptos_raffle" ]
+  case_data: "Contract_aptos_raffle_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "Call" }
+
+- case_id: 8
+  case_title: ["创建项目aptos_candymachine","检查项目aptos_candymachine","构建项目aptos_candymachine","部署项目aptos_candymachine","删除项目aptos_candymachine" ]
+  case_data: "Contract_aptos_candymachine_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "Call" }
+
+- case_id: 9
+  case_title: ["创建项目aptos_merkproof","检查项目aptos_merkproof","构建项目aptos_merkproof","部署项目aptos_merkproof","删除项目aptos_merkproof" ]
+  case_data: "Contract_aptos_merkproof_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "verify" }
+
+- case_id: 10
+  case_title: ["创建项目aptos_hello_blockchain","检查项目aptos_hello_blockchain","构建项目aptos_hello_blockchain","部署项目aptos_hello_blockchain","删除项目aptos_hello_blockchain" ]
+  case_data: "Contract_aptos_hello_blockchain_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "verify" }
+
+- case_id: 11
+  case_title: ["创建项目aptos_warkade","检查项目aptos_warkade","构建项目aptos_warkade","部署项目aptos_warkade","删除项目aptos_warkade" ]
+  case_data: "Contract_aptos_warkade_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "verify" }
+
+- case_id: 12
+  case_title: ["创建项目aptos_tokenv2_wrapper","检查项目aptos_tokenv2_wrapper","构建项目aptos_tokenv2_wrapper","部署项目aptos_tokenv2_wrapper","删除项目aptos_tokenv2_wrapper" ]
+  case_data: "Contract_aptos_tokenv2_wrapper_z"
+  text: { tx1: "View Full Log",tx2: "Successful",tx3: "Deploy",tx4: "Download ABI",tx5: "Send",tx6: "verify" }
+
+...

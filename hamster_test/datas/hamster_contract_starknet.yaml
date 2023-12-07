@@ -1,0 +1,17 @@
+---
+- case_id: 1
+  case_title: ["创建项目starknet_erc721","检查项目starknet_erc721","构建项目starknet_erc721","部署项目starknet_erc721","删除项目starknet_erc721"]
+  case_data: "Contract_starknet_erc721_z"
+  text: { "tx1": 'View Full Log',"tx2": 'Successful',"tx3": 'Download ABI', "tx4": 'Deploy',"tx5": "Modules"}
+
+- case_id: 2
+  case_title: ["创建项目starknet_erc1155","检查项目starknet_erc1155","构建项目starknet_erc1155","部署项目starknet_erc1155","删除项目starknet_erc1155"]
+  case_data: "Contract_starknet_erc1155_z"
+  text: { "tx1": 'View Full Log',"tx2": 'Successful',"tx3": 'Download ABI', "tx4": 'Deploy' ,"tx5": "Modules"}
+
+- case_id: 3
+  case_title: ["创建项目starknet_erc20","检查项目starknet_erc20","构建项目starknet_erc20","部署项目starknet_erc20","删除项目starknet_erc20"]
+  case_data: "Contract_starknet_erc20_z"
+  text: { "tx1": 'View Full Log',"tx2": 'Successful',"tx3": 'Download ABI', "tx4": 'Deploy' ,"tx5": "Modules"}
+
+...

@@ -1,0 +1,658 @@
+2023-08-16 17:40:07,824 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_sui_fungible_z失败
+2023-08-16 17:40:07,824 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_sui_fungible_z失败
+2023-08-16 17:40:07,824 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_sui_fungible_z失败
+2023-08-16 17:53:28,848 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-16 17:53:28,848 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-16 17:53:28,848 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-16 17:53:28,848 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-16 17:55:09,716 - [opject.py - 160] - ERROR:元素为//*[@id="__next"]查询文本失败
+2023-08-16 17:55:09,716 - [opject.py - 160] - ERROR:元素为//*[@id="__next"]查询文本失败
+2023-08-16 17:55:09,716 - [opject.py - 160] - ERROR:元素为//*[@id="__next"]查询文本失败
+2023-08-16 17:55:09,716 - [opject.py - 160] - ERROR:元素为//*[@id="__next"]查询文本失败
+2023-08-16 17:55:09,716 - [opject.py - 160] - ERROR:元素为//*[@id="__next"]查询文本失败
+2023-08-16 18:08:42,286 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-16 18:08:42,286 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-16 18:08:42,286 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:19:43,947 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:19:43,947 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:19:43,947 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:19:57,854 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:19:57,854 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:19:57,854 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:19:57,854 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:33:47,612 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:33:47,612 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:33:47,612 - [opject.py - 88] - ERROR://*[@id="rc-tabs-0-tab-2"]元素点击失败
+2023-08-17 10:39:53,293 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/FrontEnd_Container_Next_z.git"]元素点击失败
+2023-08-17 10:39:53,293 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/FrontEnd_Container_Next_z.git"]元素点击失败
+2023-08-17 10:39:53,293 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/FrontEnd_Container_Next_z.git"]元素点击失败
+2023-08-17 10:44:21,013 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 10:44:21,013 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 10:44:21,013 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 10:44:50,068 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/FrontEnd_Container_Vue_z失败
+2023-08-17 10:44:50,068 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/FrontEnd_Container_Vue_z失败
+2023-08-17 10:44:50,068 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/FrontEnd_Container_Vue_z失败
+2023-08-17 10:44:50,068 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/FrontEnd_Container_Vue_z失败
+2023-08-17 13:47:49,180 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:47:49,180 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:47:49,180 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:47:49,180 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:50:49,848 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 13:50:49,848 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 13:50:49,848 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 13:50:49,848 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 13:50:49,848 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 13:51:25,968 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc1155_z失败
+2023-08-17 13:51:25,968 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc1155_z失败
+2023-08-17 13:51:25,968 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc1155_z失败
+2023-08-17 13:51:25,968 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc1155_z失败
+2023-08-17 13:51:25,968 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc1155_z失败
+2023-08-17 13:51:25,968 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc1155_z失败
+2023-08-17 13:54:37,908 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 13:54:37,908 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 13:54:37,908 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 13:54:37,908 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 13:54:37,908 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 13:54:37,908 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 13:54:37,908 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 13:55:01,790 - [test_icp_frontend.py - 58] - ERROR:测试编号:1,测试标题:创建ICP_Vue,执行失败!实际结果:assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,790 - [test_icp_frontend.py - 58] - ERROR:测试编号:1,测试标题:创建ICP_Vue,执行失败!实际结果:assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,790 - [test_icp_frontend.py - 58] - ERROR:测试编号:1,测试标题:创建ICP_Vue,执行失败!实际结果:assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,790 - [test_icp_frontend.py - 58] - ERROR:测试编号:1,测试标题:创建ICP_Vue,执行失败!实际结果:assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,790 - [test_icp_frontend.py - 58] - ERROR:测试编号:1,测试标题:创建ICP_Vue,执行失败!实际结果:assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,790 - [test_icp_frontend.py - 58] - ERROR:测试编号:1,测试标题:创建ICP_Vue,执行失败!实际结果:assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,790 - [test_icp_frontend.py - 58] - ERROR:测试编号:1,测试标题:创建ICP_Vue,执行失败!实际结果:assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,792 - [test_icp_frontend.py - 60] - ERROR:assert 'Vue' in '获取文本失败'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_icp\test_icp_frontend.py", line 53, in test_create
+    assert case['text']['tx1'] in tx1  # 断言文本信息是都存在
+AssertionError: assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,792 - [test_icp_frontend.py - 60] - ERROR:assert 'Vue' in '获取文本失败'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_icp\test_icp_frontend.py", line 53, in test_create
+    assert case['text']['tx1'] in tx1  # 断言文本信息是都存在
+AssertionError: assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,792 - [test_icp_frontend.py - 60] - ERROR:assert 'Vue' in '获取文本失败'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_icp\test_icp_frontend.py", line 53, in test_create
+    assert case['text']['tx1'] in tx1  # 断言文本信息是都存在
+AssertionError: assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,792 - [test_icp_frontend.py - 60] - ERROR:assert 'Vue' in '获取文本失败'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_icp\test_icp_frontend.py", line 53, in test_create
+    assert case['text']['tx1'] in tx1  # 断言文本信息是都存在
+AssertionError: assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,792 - [test_icp_frontend.py - 60] - ERROR:assert 'Vue' in '获取文本失败'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_icp\test_icp_frontend.py", line 53, in test_create
+    assert case['text']['tx1'] in tx1  # 断言文本信息是都存在
+AssertionError: assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,792 - [test_icp_frontend.py - 60] - ERROR:assert 'Vue' in '获取文本失败'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_icp\test_icp_frontend.py", line 53, in test_create
+    assert case['text']['tx1'] in tx1  # 断言文本信息是都存在
+AssertionError: assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:01,792 - [test_icp_frontend.py - 60] - ERROR:assert 'Vue' in '获取文本失败'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_icp\test_icp_frontend.py", line 53, in test_create
+    assert case['text']['tx1'] in tx1  # 断言文本信息是都存在
+AssertionError: assert 'Vue' in '获取文本失败'
+2023-08-17 13:55:38,059 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-17 13:55:38,059 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-17 13:55:38,059 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-17 13:55:38,059 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-17 13:55:38,059 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-17 13:55:38,059 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-17 13:55:38,059 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-17 13:55:38,059 - [opject.py - 160] - ERROR:元素为//*[@id="root"]/div查询文本失败
+2023-08-17 13:56:14,346 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:56:14,346 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:56:14,346 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:56:14,346 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:56:14,346 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:56:14,346 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:56:14,346 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:56:14,346 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:56:14,346 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:00,342 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 13:59:22,882 - [opject.py - 204] - ERROR:元素为//*[@class="project-title text-[24px] font-bold cursor-pointer hover:open-link-css"]获取该元素对象失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:07,651 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/ICP_FrontEnd_Vue_z失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:00:55,384 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/ICP_FrontEnd_z.git"]元素点击失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:01:39,302 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:02:15,625 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,518 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]查询文本失败
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:08:27,530 - [create_project.py - 206] - ERROR:检查或编译过长
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:31:09,707 - [opject.py - 160] - ERROR:元素为//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]查询文本失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:05,579 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_Vue_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 14:33:37,108 - [opject.py - 88] - ERROR:a[href="/daixiang11/FrontEnd_Container_React_z/settings"]元素点击失败
+2023-08-17 19:57:00,266 - [longin_def.py - 109] - ERROR://*[@id="__nuxt"]/div/div[1]/div/div/div/div[2]/div/button元素点击失败
+2023-08-17 19:57:00,266 - [longin_def.py - 109] - ERROR://*[@id="__nuxt"]/div/div[1]/div/div/div/div[2]/div/button元素点击失败
+2023-08-17 19:57:00,266 - [longin_def.py - 109] - ERROR://*[@id="__nuxt"]/div/div[1]/div/div/div/div[2]/div/button元素点击失败
+2023-08-17 19:57:00,266 - [longin_def.py - 109] - ERROR://*[@id="__nuxt"]/div/div[1]/div/div/div/div[2]/div/button元素点击失败
+2023-08-17 19:57:00,266 - [longin_def.py - 109] - ERROR://*[@id="__nuxt"]/div/div[1]/div/div/div/div[2]/div/button元素点击失败
+2023-08-17 19:57:00,266 - [longin_def.py - 109] - ERROR://*[@id="__nuxt"]/div/div[1]/div/div/div/div[2]/div/button元素点击失败
+2023-08-17 19:57:00,266 - [longin_def.py - 109] - ERROR://*[@id="__nuxt"]/div/div[1]/div/div/div/div[2]/div/button元素点击失败
+2023-08-17 19:57:53,487 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div[1]/div[1]/button元素点击失败
+2023-08-17 19:57:53,487 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div[1]/div[1]/button元素点击失败
+2023-08-17 19:57:53,487 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div[1]/div[1]/button元素点击失败
+2023-08-17 19:57:53,487 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div[1]/div[1]/button元素点击失败
+2023-08-17 19:57:53,487 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div[1]/div[1]/button元素点击失败
+2023-08-17 19:57:53,487 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div[1]/div[1]/button元素点击失败
+2023-08-17 19:57:53,487 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div[1]/div[1]/button元素点击失败
+2023-08-17 19:57:53,487 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div[1]/div[1]/button元素点击失败
+2023-08-17 20:29:20,575 - [test_contract_aptos.py - 182] - ERROR:测试编号:6,测试标题:['创建项目aptos_NFT_marketplace', '检查项目aptos_NFT_marketplace', '构建项目aptos_NFT_marketplace', '部署项目aptos_NFT_marketplace', '删除项目aptos_NFT_marketplace'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,575 - [test_contract_aptos.py - 182] - ERROR:测试编号:6,测试标题:['创建项目aptos_NFT_marketplace', '检查项目aptos_NFT_marketplace', '构建项目aptos_NFT_marketplace', '部署项目aptos_NFT_marketplace', '删除项目aptos_NFT_marketplace'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,575 - [test_contract_aptos.py - 182] - ERROR:测试编号:6,测试标题:['创建项目aptos_NFT_marketplace', '检查项目aptos_NFT_marketplace', '构建项目aptos_NFT_marketplace', '部署项目aptos_NFT_marketplace', '删除项目aptos_NFT_marketplace'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,575 - [test_contract_aptos.py - 182] - ERROR:测试编号:6,测试标题:['创建项目aptos_NFT_marketplace', '检查项目aptos_NFT_marketplace', '构建项目aptos_NFT_marketplace', '部署项目aptos_NFT_marketplace', '删除项目aptos_NFT_marketplace'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,575 - [test_contract_aptos.py - 182] - ERROR:测试编号:6,测试标题:['创建项目aptos_NFT_marketplace', '检查项目aptos_NFT_marketplace', '构建项目aptos_NFT_marketplace', '部署项目aptos_NFT_marketplace', '删除项目aptos_NFT_marketplace'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,575 - [test_contract_aptos.py - 182] - ERROR:测试编号:6,测试标题:['创建项目aptos_NFT_marketplace', '检查项目aptos_NFT_marketplace', '构建项目aptos_NFT_marketplace', '部署项目aptos_NFT_marketplace', '删除项目aptos_NFT_marketplace'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,575 - [test_contract_aptos.py - 182] - ERROR:测试编号:6,测试标题:['创建项目aptos_NFT_marketplace', '检查项目aptos_NFT_marketplace', '构建项目aptos_NFT_marketplace', '部署项目aptos_NFT_marketplace', '删除项目aptos_NFT_marketplace'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,576 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,576 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,576 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,576 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,576 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,576 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:29:20,576 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_NFT_marketplace_z/Dashboard\n1\nmarketplace\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nbuy_token\ncreate_market\nlist_token\nCall\nBuyTokenEvent\nCreateMarketEvent\nListTokenEvent\nMarket\nMarketEvents\nMarketId\nOffer\nOfferStore\nbuy_token\nparam1\nparam2\nparam3\nparam4\nparam5\nparam6\nparam7\nparam8\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,214 - [test_contract_aptos.py - 182] - ERROR:测试编号:10,测试标题:['创建项目aptos_hello_blockchain', '检查项目aptos_hello_blockchain', '构建项目aptos_hello_blockchain', '部署项目aptos_hello_blockchain', '删除项目aptos_hello_blockchain'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,214 - [test_contract_aptos.py - 182] - ERROR:测试编号:10,测试标题:['创建项目aptos_hello_blockchain', '检查项目aptos_hello_blockchain', '构建项目aptos_hello_blockchain', '部署项目aptos_hello_blockchain', '删除项目aptos_hello_blockchain'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,214 - [test_contract_aptos.py - 182] - ERROR:测试编号:10,测试标题:['创建项目aptos_hello_blockchain', '检查项目aptos_hello_blockchain', '构建项目aptos_hello_blockchain', '部署项目aptos_hello_blockchain', '删除项目aptos_hello_blockchain'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,214 - [test_contract_aptos.py - 182] - ERROR:测试编号:10,测试标题:['创建项目aptos_hello_blockchain', '检查项目aptos_hello_blockchain', '构建项目aptos_hello_blockchain', '部署项目aptos_hello_blockchain', '删除项目aptos_hello_blockchain'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,214 - [test_contract_aptos.py - 182] - ERROR:测试编号:10,测试标题:['创建项目aptos_hello_blockchain', '检查项目aptos_hello_blockchain', '构建项目aptos_hello_blockchain', '部署项目aptos_hello_blockchain', '删除项目aptos_hello_blockchain'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,214 - [test_contract_aptos.py - 182] - ERROR:测试编号:10,测试标题:['创建项目aptos_hello_blockchain', '检查项目aptos_hello_blockchain', '构建项目aptos_hello_blockchain', '部署项目aptos_hello_blockchain', '删除项目aptos_hello_blockchain'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,214 - [test_contract_aptos.py - 182] - ERROR:测试编号:10,测试标题:['创建项目aptos_hello_blockchain', '检查项目aptos_hello_blockchain', '构建项目aptos_hello_blockchain', '部署项目aptos_hello_blockchain', '删除项目aptos_hello_blockchain'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,216 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,216 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,216 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,216 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,216 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,216 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:32:23,216 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_hello_blockchain_z/Dashboard\n1\nmessage\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nget_message\nset_message\nCall\nMessageChangeEvent\nMessageHolder\nget_message\nparam1\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,671 - [test_contract_aptos.py - 182] - ERROR:测试编号:11,测试标题:['创建项目aptos_warkade', '检查项目aptos_warkade', '构建项目aptos_warkade', '部署项目aptos_warkade', '删除项目aptos_warkade'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,671 - [test_contract_aptos.py - 182] - ERROR:测试编号:11,测试标题:['创建项目aptos_warkade', '检查项目aptos_warkade', '构建项目aptos_warkade', '部署项目aptos_warkade', '删除项目aptos_warkade'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,671 - [test_contract_aptos.py - 182] - ERROR:测试编号:11,测试标题:['创建项目aptos_warkade', '检查项目aptos_warkade', '构建项目aptos_warkade', '部署项目aptos_warkade', '删除项目aptos_warkade'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,671 - [test_contract_aptos.py - 182] - ERROR:测试编号:11,测试标题:['创建项目aptos_warkade', '检查项目aptos_warkade', '构建项目aptos_warkade', '部署项目aptos_warkade', '删除项目aptos_warkade'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,671 - [test_contract_aptos.py - 182] - ERROR:测试编号:11,测试标题:['创建项目aptos_warkade', '检查项目aptos_warkade', '构建项目aptos_warkade', '部署项目aptos_warkade', '删除项目aptos_warkade'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,671 - [test_contract_aptos.py - 182] - ERROR:测试编号:11,测试标题:['创建项目aptos_warkade', '检查项目aptos_warkade', '构建项目aptos_warkade', '部署项目aptos_warkade', '删除项目aptos_warkade'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,671 - [test_contract_aptos.py - 182] - ERROR:测试编号:11,测试标题:['创建项目aptos_warkade', '检查项目aptos_warkade', '构建项目aptos_warkade', '部署项目aptos_warkade', '删除项目aptos_warkade'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,673 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,673 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,673 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,673 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,673 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,673 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:05,673 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_warkade_z/Dashboard\n1\nwarkade\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\nadd_layer\ndeposit\ninitiate_collection\ninitiate_layers\nmint\nmints_remain\nupdate_price\nupdate_royalty\nupdate_uri\nCall\nMintInfo\nPlayer\nadd_layer\nparam1\nparam2\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,538 - [test_contract_aptos.py - 182] - ERROR:测试编号:12,测试标题:['创建项目aptos_tokenv2_wrapper', '检查项目aptos_tokenv2_wrapper', '构建项目aptos_tokenv2_wrapper', '部署项目aptos_tokenv2_wrapper', '删除项目aptos_tokenv2_wrapper'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,538 - [test_contract_aptos.py - 182] - ERROR:测试编号:12,测试标题:['创建项目aptos_tokenv2_wrapper', '检查项目aptos_tokenv2_wrapper', '构建项目aptos_tokenv2_wrapper', '部署项目aptos_tokenv2_wrapper', '删除项目aptos_tokenv2_wrapper'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,538 - [test_contract_aptos.py - 182] - ERROR:测试编号:12,测试标题:['创建项目aptos_tokenv2_wrapper', '检查项目aptos_tokenv2_wrapper', '构建项目aptos_tokenv2_wrapper', '部署项目aptos_tokenv2_wrapper', '删除项目aptos_tokenv2_wrapper'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,538 - [test_contract_aptos.py - 182] - ERROR:测试编号:12,测试标题:['创建项目aptos_tokenv2_wrapper', '检查项目aptos_tokenv2_wrapper', '构建项目aptos_tokenv2_wrapper', '部署项目aptos_tokenv2_wrapper', '删除项目aptos_tokenv2_wrapper'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,538 - [test_contract_aptos.py - 182] - ERROR:测试编号:12,测试标题:['创建项目aptos_tokenv2_wrapper', '检查项目aptos_tokenv2_wrapper', '构建项目aptos_tokenv2_wrapper', '部署项目aptos_tokenv2_wrapper', '删除项目aptos_tokenv2_wrapper'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,538 - [test_contract_aptos.py - 182] - ERROR:测试编号:12,测试标题:['创建项目aptos_tokenv2_wrapper', '检查项目aptos_tokenv2_wrapper', '构建项目aptos_tokenv2_wrapper', '部署项目aptos_tokenv2_wrapper', '删除项目aptos_tokenv2_wrapper'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,538 - [test_contract_aptos.py - 182] - ERROR:测试编号:12,测试标题:['创建项目aptos_tokenv2_wrapper', '检查项目aptos_tokenv2_wrapper', '构建项目aptos_tokenv2_wrapper', '部署项目aptos_tokenv2_wrapper', '删除项目aptos_tokenv2_wrapper'],执行失败!实际结果:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,540 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,540 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,540 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,540 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,540 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,540 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:33:51,540 - [test_contract_aptos.py - 183] - ERROR:assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_aptos.py", line 177, in test_deploy
+    assert case['text']['tx6'] in tx
+AssertionError: assert 'verify' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_aptos_tokenv2_wrapper_z/Dashboard\n1\nwrapper\nNetwork Address Action\nTestnet 0x5fb889ec5490c7660d90fe48fe06f5e5e3a367dd0b650b62e6e54123e84f4b06 Deploy\nContract List\nSend\ninitiate_collection\nwrap_obj_address\nwrap_token\nCall\nObjectMap\nWrapper\ninitiate_collection\nparam1\nparam2\nparam3\nparam4\nTransact\noutputs\ncopy'
+2023-08-17 20:41:24,644 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_aptos_raffle_z失败
+2023-08-17 20:41:24,644 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_aptos_raffle_z失败
+2023-08-17 20:41:24,644 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_aptos_raffle_z失败
+2023-08-17 20:41:24,644 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_aptos_raffle_z失败
+2023-08-17 20:41:24,644 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_aptos_raffle_z失败
+2023-08-17 20:41:24,644 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_aptos_raffle_z失败
+2023-08-17 20:41:24,644 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_aptos_raffle_z失败
+2023-08-17 20:41:24,644 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_aptos_raffle_z失败
+2023-08-17 20:56:48,977 - [test_contract_sui.py - 190] - ERROR:测试编号:2,测试标题:部署项目sui_defi,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,977 - [test_contract_sui.py - 190] - ERROR:测试编号:2,测试标题:部署项目sui_defi,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,977 - [test_contract_sui.py - 190] - ERROR:测试编号:2,测试标题:部署项目sui_defi,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,977 - [test_contract_sui.py - 190] - ERROR:测试编号:2,测试标题:部署项目sui_defi,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,977 - [test_contract_sui.py - 190] - ERROR:测试编号:2,测试标题:部署项目sui_defi,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,977 - [test_contract_sui.py - 190] - ERROR:测试编号:2,测试标题:部署项目sui_defi,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,977 - [test_contract_sui.py - 190] - ERROR:测试编号:2,测试标题:部署项目sui_defi,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,977 - [test_contract_sui.py - 190] - ERROR:测试编号:2,测试标题:部署项目sui_defi,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,979 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,979 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,979 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,979 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,979 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,979 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,979 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:56:48,979 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_defi_z/Deploy\nContract\nVersion\n1\nName\nDeFi\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,754 - [test_contract_sui.py - 190] - ERROR:测试编号:3,测试标题:部署项目sui_games,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,754 - [test_contract_sui.py - 190] - ERROR:测试编号:3,测试标题:部署项目sui_games,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,754 - [test_contract_sui.py - 190] - ERROR:测试编号:3,测试标题:部署项目sui_games,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,754 - [test_contract_sui.py - 190] - ERROR:测试编号:3,测试标题:部署项目sui_games,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,754 - [test_contract_sui.py - 190] - ERROR:测试编号:3,测试标题:部署项目sui_games,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,754 - [test_contract_sui.py - 190] - ERROR:测试编号:3,测试标题:部署项目sui_games,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,754 - [test_contract_sui.py - 190] - ERROR:测试编号:3,测试标题:部署项目sui_games,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,754 - [test_contract_sui.py - 190] - ERROR:测试编号:3,测试标题:部署项目sui_games,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,758 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,758 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,758 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,758 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,758 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,758 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,758 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:57:37,758 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_games_z/Deploy\nContract\nVersion\n1\nName\nGames\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,546 - [test_contract_sui.py - 190] - ERROR:测试编号:4,测试标题:部署项目sui_fungible,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,546 - [test_contract_sui.py - 190] - ERROR:测试编号:4,测试标题:部署项目sui_fungible,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,546 - [test_contract_sui.py - 190] - ERROR:测试编号:4,测试标题:部署项目sui_fungible,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,546 - [test_contract_sui.py - 190] - ERROR:测试编号:4,测试标题:部署项目sui_fungible,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,546 - [test_contract_sui.py - 190] - ERROR:测试编号:4,测试标题:部署项目sui_fungible,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,546 - [test_contract_sui.py - 190] - ERROR:测试编号:4,测试标题:部署项目sui_fungible,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,546 - [test_contract_sui.py - 190] - ERROR:测试编号:4,测试标题:部署项目sui_fungible,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,546 - [test_contract_sui.py - 190] - ERROR:测试编号:4,测试标题:部署项目sui_fungible,执行失败!实际结果:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,549 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,549 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,549 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,549 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,549 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,549 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,549 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 20:58:31,549 - [test_contract_sui.py - 192] - ERROR:assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+Traceback (most recent call last):
+  File "C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\hamster_test\test_cases\test_contract\test_contract_sui.py", line 185, in test_deploy
+    assert case['text']['tx5'] in tx
+AssertionError: assert 'Modules' in 'Projects\nMiddleware\nDocs\nEthereum Mainnet\n0x156...e010\nProjects/Contract_sui_fungible_z/Deploy\nContract\nVersion\n1\nName\nFungibleTokens\nNetwork / Chain\nChain\nSui\nNetwork\nTestnet\nDeploy'
+2023-08-17 21:04:42,457 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 21:04:42,457 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 21:04:42,457 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 21:04:42,457 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 21:04:42,457 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 21:04:42,457 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 21:04:42,457 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 21:04:42,457 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 21:04:42,457 - [opject.py - 88] - ERROR://*[@id="layout-default"]/section/main/div/div[2]/button元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:07:13,939 - [opject.py - 88] - ERROR:a[href="https://github.com/daixiang11/Contract_starknet_erc721_z.git"]元素点击失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:08:47,359 - [opject.py - 69] - ERROR:元素为//*[@id="verification_field"]输入的值为daixiang11/Contract_starknet_erc20_z失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败
+2023-08-17 21:19:24,355 - [opject.py - 160] - ERROR:元素为//*[@id="app"]查询文本失败

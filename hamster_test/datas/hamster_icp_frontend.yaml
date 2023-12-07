@@ -1,0 +1,10 @@
+---
+- case_id: 1
+  case_title: [ "创建ICP_Vue","检查ICP_Vue","构建ICP_Vue","部署ICP_Vue","删除ICP_Vue" ]
+  case_data: "ICP_FrontEnd_Vue_z"
+  text: { tx1: "Vue",tx2: "View Full Log",tx3: "Successful",tx4: "Deploy Now" ,tx5: "Vue"}
+
+- case_id: 2
+  case_title: [ "创建ICP_React","检查ICP_React","构建ICP_React","部署ICP_React","删除ICP_React" ]
+  case_data: "ICP_FrontEnd_z"
+  text: { tx1: "React",tx2: "View Full Log",tx3: "Successful",tx4: "Deploy Now",tx5: "React"}

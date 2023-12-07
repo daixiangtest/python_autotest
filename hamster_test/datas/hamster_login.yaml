@@ -1,0 +1,11 @@
+---
+- case_id: 1
+  case_title: hamster正确登录
+  url: https://portal.hamster.newtouch.com
+  case_data: {"email":"983643937@qq.com","passwd":"Dx3826729"}
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: {"tx1": "Contract","tx2": "FrontEnd"}
+
+...
+

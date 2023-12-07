@@ -1,0 +1,29 @@
+1695284124205	geckodriver	INFO	Listening on 127.0.0.1:7519
+1695284127256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7520" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofileG0659T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695284127619	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695284127708	Marionette	INFO	Listening on port 7531
+WebDriver BiDi listening on ws://127.0.0.1:7520
+Read port: 7531
+1695284127974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+^C1695284144183	geckodriver	INFO	Listening on 127.0.0.1:7552
+1695284147240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofileqnC2Iu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695284147600	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695284147679	Marionette	INFO	Listening on port 7565
+Read port: 7565
+WebDriver BiDi listening on ws://127.0.0.1:7553
+1695284147750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:7553/devtools/browser/f6da440c-a8c5-4794-a19e-82adb3e1eba7
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://xui.ptlogin2.qq.com."
+1695284464415	Marionette	INFO	Stopped listening on port 7565
+Dynamically enable window occlusion 1

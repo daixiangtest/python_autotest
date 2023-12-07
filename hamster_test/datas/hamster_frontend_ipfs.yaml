@@ -1,0 +1,20 @@
+---
+- case_id: 1
+  case_title: [ "创建IPFS项目Vue","检查IPFS项目Vue","构建IPFS项目Vue","部署IPFS项目Vue","删除IPFS项目Vue" ]
+  case_data: "FrontEnd_IPFS_Vue_z"
+  text: { tx1: "Vue",tx2: "View Full Log",tx3: "Successful",tx4: "Deploy Now"  }
+
+- case_id: 2
+  case_title: [ "创建IPFS项目React","检查IPFS项目React","构建IPFS项目React","部署IPFS项目React","删除IPFS项目React" ]
+  case_data: "FrontEnd_IPFS_React_z"
+  text: { tx1: "React",tx2: "View Full Log",tx3: "Successful",tx4: "Deploy Now" }
+
+- case_id: 3
+  case_title: [ "创建IPFS项目nulink_web","检查IPFS项目nulink_web","构建IPFS项目nulink_web","部署IPFS项目nulink_web","删除IPFS项目nulink_web" ]
+  case_data: "FrontEnd_IPFS_nulink_web_z"
+  text: { tx1: "",tx2: "View Full Log",tx3: "Successful",tx4: "Deploy Now"  }
+
+- case_id: 4
+  case_title: [ "创建IPFS项目nulink_agent","检查IPFS项目nulink_agent","构建IPFS项目nulink_agent","部署IPFS项目nulink_agent","删除IPFS项目nulink_agent" ]
+  case_data: "FrontEnd_IPFS_nulink_agent_z"
+  text: { tx1: "nulink agent",tx2: "View Full Log",tx3: "Successful",tx4: "Deploy Now"  }

@@ -1,0 +1,22 @@
+---
+- case_id: 1
+  case_title: ["创建项目sui_nfts","检查项目sui_nfts","构建项目sui_nfts","部署项目sui_nfts","删除项目sui_nfts"]
+  case_data: "Contract_sui_nfts_z"
+  text: { "tx1": 'View Full Log',"tx2": 'Successful',"tx3": 'Download ABI', "tx4": 'Deploy',"tx5": "Modules"}
+
+- case_id: 2
+  case_title: ["创建项目sui_defi","检查项目sui_defi","构建项目sui_defi","部署项目sui_defi","删除项目sui_defi"]
+  case_data: "Contract_sui_defi_z"
+  text: { "tx1": 'View Full Log',"tx2": 'Successful',"tx3": 'Download ABI', "tx4": 'Deploy' ,"tx5": "Modules"}
+
+- case_id: 3
+  case_title: ["创建项目sui_games","检查项目sui_games","构建项目sui_games","部署项目sui_games","删除项目sui_games"]
+  case_data: "Contract_sui_games_z"
+  text: { "tx1": 'View Full Log',"tx2": 'Successful',"tx3": 'Download ABI', "tx4": 'Deploy' ,"tx5": "Modules"}
+
+- case_id: 4
+  case_title: ["创建项目sui_fungible","检查项目sui_fungible","构建项目sui_fungible","部署项目sui_fungible","删除项目sui_fungible"]
+  case_data: "Contract_sui_fungible_z"
+  text: { "tx1": 'View Full Log',"tx2": 'Successful',"tx3": 'Download ABI', "tx4": 'Deploy' ,"tx5": "Modules"}
+
+...

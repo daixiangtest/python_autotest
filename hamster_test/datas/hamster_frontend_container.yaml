@@ -1,0 +1,30 @@
+---
+- case_id: 1
+  case_title: [ "创建Container项目Vue","检查Container项目Vue","构建Container项目Vue","部署Container项目Vue","删除Container项目Vue" ]
+  case_data: "FrontEnd_Container_Vue_z"
+  text: { tx1: "Vue",tx2: 'Full Log',tx3: 'Successful',tx4: "Deploy Now" }
+
+- case_id: 2
+  case_title: [ "创建Container项目React","检查Container项目React","构建Container项目React","部署Container项目React","删除Container项目React" ]
+  case_data: "FrontEnd_Container_React_z"
+  text: { tx1: "React",tx2: 'Full Log',tx3: 'Successful',tx4: "Deploy Now" }
+
+- case_id: 5
+  case_title: [ "创建Container项目Nuxt","检查Container项目Nuxt","构建Container项目Nuxt","部署Container项目Nuxt","删除Container项目Nuxt" ]
+  case_data: "FrontEnd_Container_Nuxt_z"
+  text: { tx1: "Nuxt" ,tx2: 'Full Log',tx3: 'Successful',tx4: "Deploy Now" }
+
+- case_id: 6
+  case_title: [ "创建Container项目Next","检查Container项目Next","构建Container项目Next","部署Container项目Next","删除Container项目Next" ]
+  case_data: "FrontEnd_Container_Next_z"
+  text: { tx1: "Next",tx2: 'Full Log',tx3: 'Successful' ,tx4: "Deploy Now" }
+
+- case_id: 3
+  case_title: [ "创建IPFS项目nulink_web","检查IPFS项目nulink_web","构建IPFS项目nulink_web","部署IPFS项目nulink_web","删除IPFS项目nulink_web" ]
+  case_data: "FrontEnd_IPFS_nulink_web_z"
+  text: { tx1: "",tx2: "View Full Log",tx3: "Successful",tx4: "Deploy Now"  }
+
+- case_id: 4
+  case_title: [ "创建IPFS项目nulink_agent","检查IPFS项目nulink_agent","构建IPFS项目nulink_agent","部署IPFS项目nulink_agent","删除IPFS项目nulink_agent" ]
+  case_data: "FrontEnd_IPFS_nulink_agent_z"
+  text: { tx1: "nulink agent",tx2: "View Full Log",tx3: "Successful",tx4: "Deploy Now"  }
